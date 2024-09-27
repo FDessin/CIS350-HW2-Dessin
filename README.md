@@ -17,4 +17,4 @@ Technical Interests
 
 ### Technical Backkground
 
-I have experience in programming with Java and Python, as well as some knowledge of C/C++ gained from my college coursework. Currently, I am learning Full Stack Development in JavaScript with the React framework online with[Codecademy](https://www.codecademy.com/).
+I have experience in programming with Java and Python, as well as some knowledge of C/C++ gained from my college coursework. Currently, I am learning Full Stack Development in JavaScript with the React framework online with [Codecademy](https://www.codecademy.com/).
